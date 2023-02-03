@@ -1,0 +1,3 @@
+/Users/ducdao/Documents/SchoolWorks/SY-2021/FA_Sem/csci120/pizzaTracking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ducdao/Documents/SchoolWorks/SY-2021/FA_Sem/csci120/pizzaTracking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ducdao/Documents/SchoolWorks/SY-2021/FA_Sem/csci120/pizzaTracking/cmake-build-debug/CMakeFiles/pizzaTracking.dir

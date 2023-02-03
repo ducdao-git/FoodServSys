@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/ducdao/Documents/SchoolWorks/SY-2021/FA_Sem/csci120/pizzaTracking
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ducdao/Documents/SchoolWorks/SY-2021/FA_Sem/csci120/pizzaTracking/cmake-build-debug
